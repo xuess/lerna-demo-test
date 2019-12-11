@@ -1,16 +1,14 @@
 {
-  "name": "module-1",
+  "name": "module-2",
   "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15"
-  },
-  "gitHead": "890839ccf1c490cb060ad200d191f249a9df0750"
+    "vue": "^2.6.10"
+  }
 }
