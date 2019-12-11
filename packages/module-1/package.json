@@ -1,5 +1,5 @@
 {
-  "name": "module-wuxiu-test-1",
+  "name": "moon-real-person",
   "version": "1.1.1",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "^4.17.15"
   },
-  "gitHead": "d2b8f606dec9057899b201ad538e2e99bf8a064e"
+  "gitHead": "a385b4a9bcc214eb53be9bc14c1bbe6d89ad8565"
 }
