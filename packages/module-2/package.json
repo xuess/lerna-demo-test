@@ -1,5 +1,5 @@
 {
-  "name": "module-2",
+  "name": "module-wuxiu-test-2",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "vue": "^2.6.10"
-  }
+  },
+  "gitHead": "d2b8f606dec9057899b201ad538e2e99bf8a064e"
 }
