@@ -1,5 +1,5 @@
 {
-  "name": "moon-real-person",
+  "name": "moon-real-preacher",
   "version": "1.1.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "^4.17.15"
   },
-  "gitHead": "a385b4a9bcc214eb53be9bc14c1bbe6d89ad8565"
+  "gitHead": "82a2af664ee24cd78c9f7f6d5b02c0a1da353175"
 }
