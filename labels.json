@@ -1,0 +1,94 @@
+[
+  {
+    "name": "[ ͡° ͜ʖ ͡°]",
+    "color": "#E91E63"
+  },
+  {
+    "name": "[¬‿¬]",
+    "color": "#673AB7"
+  },
+  {
+    "name": "[ಠ_ಠ]",
+    "color": "#D32F2F"
+  },
+  {
+    "name": "[ಥ﹏ಥ]",
+    "color": "#2196F3"
+  },
+  {
+    "name": "[▀̿Ĺ̯▀̿ ̿]",
+    "color": "#f6f6f6"
+  },
+  {
+    "name": "[ノಠ益ಠ]ノ彡┻━┻",
+    "color": "#333333"
+  },
+  {
+    "name": "[ﾟ∀ﾟ]",
+    "color": "#009688"
+  },
+  {
+    "name": "bug",
+    "color": "#d73a4a"
+  },
+  {
+    "name": "documentation",
+    "color": "#0075ca"
+  },
+  {
+    "name": "duplicate",
+    "color": "#cfd3d7"
+  },
+  {
+    "name": "enhancement",
+    "color": "#a2eeef"
+  },
+  {
+    "name": "good first issue",
+    "color": "#7057ff"
+  },
+  {
+    "name": "help wanted",
+    "color": "#008672"
+  },
+  {
+    "name": "invalid",
+    "color": "#e4e669"
+  },
+  {
+    "name": "question",
+    "color": "#d876e3"
+  },
+  {
+    "name": "wontfix",
+    "color": "#ffffff"
+  },
+  {
+    "name": "¯\\_[ツ]_/¯",
+    "color": "#FFC107"
+  },
+  {
+    "name": "ʕ[-‿-]ʔ",
+    "color": "#8BC34A"
+  },
+  {
+    "name": "ʕಠ‿ಠʔ",
+    "color": "#CDDC39"
+  },
+  {
+    "name": "ʕ•ᴥ•ʔ",
+    "color": "#795548"
+  },
+  {
+    "name": "ʕ◉.◉ʔ",
+    "color": "#FF9800"
+  },
+  {
+    "name": "一般",
+    "color": "#e4e669"
+  },
+  {
+    "name": "紧急",
+    "color": "#d876e3"
+  }
+]
