@@ -24,7 +24,7 @@ const lerna = {
 };
 
 // 重新装一下依赖，干净一点
-runCommand('lerna clean --yes');
+// runCommand('lerna clean --yes');
 runCommand('lerna bootstrap');
 
 const changedPackages = lerna.changed();
