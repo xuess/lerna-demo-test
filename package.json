@@ -4,5 +4,11 @@
   "devDependencies": {
     "lerna": "^3.19.0",
     "lerna-changelog": "^0.8.3"
+  },
+  "scripts": {
+    "bootstrap:ci": "lerna bootstrap --npm-client=npm",
+    "bootstrap:lerna": "lerna bootstrap -- --ignore-engines",
+    "release:lerna": "lerna publish --exact --skip-temp-tag --registry http://registry.npm.yangtuojia.com",
+    "release:beta": "lerna publish --exact --skip-temp-tag  --preid=beta --npm-tag=beta --registry http://registry.npm.yangtuojia.com"
   }
 }
