@@ -12,5 +12,8 @@
   "dependencies": {
     "lodash": "^4.17.15"
   },
-  "gitHead": "26106be812b67441ce93cf5a8b1e98232ec61693"
+  "publishConfig": {
+    "registry": "http://registry.npm.yangtuojia.com"
+  },
+  "gitHead": "aae905613c98da09da68b94422cea5ead64047e7"
 }
