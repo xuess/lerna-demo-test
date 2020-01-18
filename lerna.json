@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "npmClient": "ytnpm",
+  "version": "independent",
+  "npmClient": "cnpm",
   "publishConfig": {
     "registry": "http://registry.npm.yangtuojia.com/"
   },
