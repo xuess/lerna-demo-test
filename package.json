@@ -10,5 +10,8 @@
     "bootstrap:lerna": "lerna bootstrap -- --ignore-engines",
     "release:lerna": "lerna publish --exact --skip-temp-tag --registry http://registry.npm.yangtuojia.com",
     "release:beta": "lerna publish --exact --skip-temp-tag  --preid=beta --npm-tag=beta --registry http://registry.npm.yangtuojia.com"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2"
   }
 }
